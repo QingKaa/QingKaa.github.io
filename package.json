@@ -12,7 +12,11 @@
   "license": "ISC",
   "devDependencies": {
     "@vuepress/bundler-vite": "2.0.0-rc.8",
+    "@vuepress/plugin-blog": "2.0.0-rc.19",
     "@vuepress/theme-default": "2.0.0-rc.20",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
     "vue": "^3.4.21",
     "vuepress": "2.0.0-rc.8"
   }
