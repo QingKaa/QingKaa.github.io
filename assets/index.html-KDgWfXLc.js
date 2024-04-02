@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a}from"./app-CL4ocTyd.js";const o={};function c(n,r){return e(),a("div")}const i=t(o,[["render",c],["__file","index.html.vue"]]),s=JSON.parse('{"path":"/tag/","title":"标签页","lang":"zh-CN","frontmatter":{"title":"标签页","blog":{"type":"category","key":"tag"},"layout":"TagMap"},"headers":[],"git":{},"filePathRelative":null}');export{i as comp,s as data};
